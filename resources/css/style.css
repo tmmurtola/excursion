@@ -8,6 +8,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100%;
 }
 
 h1 {
@@ -20,6 +21,31 @@ h1 {
 a {
     font-size: 16px;
     color: aquamarine;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+#image-camping {
+    width: 100%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+#icon {
+    width: 40px;
+    height: auto;
 }
 
 
