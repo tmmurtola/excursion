@@ -28,7 +28,7 @@ h2 {
     font-size: 42px;
 }
 
-p {
+#content p {
     font-size: 21px;
     color: gray;
     text-align: center;
@@ -48,4 +48,9 @@ img {
     height: auto;
 }
 
+footer p {
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
 
